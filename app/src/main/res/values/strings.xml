@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">BuyTicket</string>
+
+    <string-array name="spiner_with">
+        <item>Київ</item>
+        <item>Одеса</item>
+        <item>Львів</item>
+        <item>Ужгород</item>
+        <item>Луцьк</item>
+        <item>Харків</item>
+        <item>Житомир</item>
+        <item>Полтава</item>
+    </string-array>
+
+    <string-array name="spiner_on">
+        <item>Київ</item>
+        <item>Одеса</item>
+        <item>Львів</item>
+        <item>Ужгород</item>
+        <item>Луцьк</item>
+        <item>Харків</item>
+        <item>Житомир</item>
+        <item>Полтава</item>
+    </string-array>
+
+    <string-array name="data">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="data1">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string name="title_activity_card_activiry">CardActiviry</string>
+
+</resources>
